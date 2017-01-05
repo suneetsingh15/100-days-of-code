@@ -32,4 +32,24 @@ Now, Braced up for Bootstrap.
 
 Thoughts: Feels like a good habit of coding daily.
 
+Day 3: January 5. Thursday
+
+Today's progress: Completed the following Challenges on FreeCodeCamp Cat App
+			1) Make Images Mobile Responsive
+			2) Center Text with Bootstrap
+			3) Taste the Bootstrap Button Color Rainbow
+			4) Call out Optional Actions with Button Info
+			5) Warn your Users of a Dangerous Action
+			6) Use the Bootstrap Grid to Put Elements Side By Side
+			7) Ditch Custom CSS for Bootstrap
+			8) Use Spans for Inline Elements
+			9) Create a Custom Heading	
+			10) Add Font Awesome Icons to our Buttons
+			11) Add Font Awesome Icons to all of our Buttons
+			12) Responsively Style Radio Buttons
+			
+Thoughts: Bootstarp is a easy option to style your webpage
+
+
+
 			
