@@ -50,6 +50,28 @@ Today's progress: Completed the following Challenges on FreeCodeCamp Cat App
 			
 Thoughts: Bootstarp is a easy option to style your webpage
 
+Day 4: January 6. Friday
+
+Today's progress: Completed the following Challenges on FreeCodeCamp CatApp
+			1) Responsively Style Checkboxes
+			2) Style Text Inputs as Form Controls
+			3) Line up Form Elements Responsively with Bootstrap
+			4) Create a Bootstrap Headline
+			5) House our page within a Bootstrap Container Fluid Div	
+			6) Create a Bootstrap Row
+			7) Split your Bootstrap Row
+			8) Create Bootstrap Wells
+			9) Add Elements within your Bootstrap Wells
+			10) Apply the Default Bootstrap Button Style
+			11) Create a Class to Target with jQuery Selectors
+			12) Add ID Attributes to Bootstrap Elements
+			13) Label Bootstrap Wells
+			14) Give Each Element a Unique ID
+			15) Label Bootstrap Buttons
+			16) Use Comments to Clarify Code
+
+Thoughts: Super boosted
+
 
 
 			
