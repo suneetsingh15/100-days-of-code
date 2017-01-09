@@ -72,6 +72,12 @@ Today's progress: Completed the following Challenges on FreeCodeCamp CatApp
 
 Thoughts: Super boosted
 
+Day 5 January 7. Saturday
+
+Today's Progress: Completed some jQuery Challenges with my phone on my FreeCodeCamp Cat App
+
+Thoughts: When there is a will there is a way
+
 
 
 			
