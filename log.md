@@ -78,6 +78,27 @@ Today's Progress: Completed some jQuery Challenges with my phone on my FreeCodeC
 
 Thoughts: When there is a will there is a way
 
+Day 6: January 10 Tuesday
+
+Today's progress: Completed the following jQuery Challenges 
+			1) Target the same element with multiple jQuery Selectors
+			2) Remove Classes from an element with jQuery
+			3) Change the CSS of an Element Using jQuery
+			4) Disable an Element Using jQuery
+			5) Change Text Inside an Element Using jQuery
+			6) Remove an Element Using jQuery
+			7) Use appendTo to Move Elements with jQuery
+			8) Clone an Element Using jQuery
+			9) Target the Parent of an Element Using jQuery
+			10) Target the Children of an Element Using jQuery
+			11) Target a Specific Child of an Element Using jQuery
+			12) Target Even Numbered Elements Using jQuery
+			13) Use jQuery to Modify the Entire Page
+
+Thoughts: Its good to be back.
+
+
+
 
 
 			
