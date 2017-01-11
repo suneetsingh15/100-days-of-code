@@ -97,6 +97,12 @@ Today's progress: Completed the following jQuery Challenges
 
 Thoughts: Its good to be back.
 
+Day 7. January 11 Wednesday
+
+Today's progress: Started working on a Tribute website using basic HTML & CSS
+
+Thoughts: Guess would have to spend more then just an hour a Day.
+ 
 
 
 
