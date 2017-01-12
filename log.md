@@ -103,6 +103,11 @@ Today's progress: Started working on a Tribute website using basic HTML & CSS
 
 Thoughts: Guess would have to spend more then just an hour a Day.
  
+ Day 8. January 12 Thursday
+ 
+ Today's Progress: Worked on tribute page and revised git
+ 
+ Thoughts: Work hard play hader.
 
 
 
