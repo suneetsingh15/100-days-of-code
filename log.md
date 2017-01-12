@@ -107,7 +107,7 @@ Thoughts: Guess would have to spend more then just an hour a Day.
  
  Today's Progress: Worked on tribute page and revised git
  
- Thoughts: Work hard play hader.
+ Thoughts: Work hard play harder.
 
 
 
