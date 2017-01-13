@@ -108,6 +108,12 @@ Thoughts: Guess would have to spend more then just an hour a Day.
  Today's Progress: Worked on tribute page and revised git
  
  Thoughts: Work hard play harder.
+ 
+ Day 9.January 13 Friday
+ 
+ Today's Progress: Revised Git commands and visited Hscker rank
+ 
+ Thoughts: Should put somemore efforts.
 
 
 
